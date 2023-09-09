@@ -11,7 +11,7 @@ const personDetail = async (req, res) => {
     } catch (error) {
         responseHandler.error(res)
     }
-}''
+};
 
 const personMedia = async (req, res) => {
     try {
