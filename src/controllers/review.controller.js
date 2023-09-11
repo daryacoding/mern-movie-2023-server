@@ -54,4 +54,4 @@ const getReviewsOfUser = async (req, user) => {
     }
 }
 
-export default {add, remove, getReviewsOfUser}
+export default {create, remove, getReviewsOfUser}
